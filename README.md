@@ -1,0 +1,1 @@
+Chuong trinh tinh tong cac chu so cua mot so. VD: Sum(123)=1+2+3
